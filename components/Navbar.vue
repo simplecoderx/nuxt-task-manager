@@ -40,7 +40,7 @@
           </li>
           <li>
             <NuxtLink
-              to="/protected"
+              to="/private"
               class="block py-2 pl-3 pr-4 md:bg-transparent md:hover:text-primary-700 md:p-0 dark:text-white md:dark:text-primary-500"
               aria-current="page"
             >
