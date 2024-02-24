@@ -1,6 +1,8 @@
+import { definePageMeta } from "#imports";
+
 <template>
   <div>
-    <h1>This is guest view.</h1>
+    <Login />
   </div>
 </template>
 
